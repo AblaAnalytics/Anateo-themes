@@ -7,7 +7,9 @@
   Each folder contains two files with styles for the light and dark themes('light_theme.json' and 'dark_theme.json').
 
 
-## The URL to the JSON files with the different color themes
+
+
+# The URL to the JSON files with the different color themes
 
 For getting the JSON object with the color themes need to use URL such format:
 
