@@ -1,6 +1,6 @@
 # Anateo-themes
 
-  This repository contains seven JSON files with the following color themes: ${\color{red}Red}$, ${\color{pink}Pink}$, ${\color{orange}Orange}$, ${\color{green}Green}$, ${\color{blue}Blue}$, ${\color{darkyellow}Yellow}$, and ${\color{purple}Purple}$.
+  This repository contains seven JSON files with the following color themes: ${\color{red}Red}$, ${\color{pink}Pink}$, ${\color{orange}Orange}$, ${\color{green}Green}$, ${\color{blue}Blue}$, ${\color{middleyellow}Yellow}$, and ${\color{purple}Purple}$.
   
   There are folders with the names of the theme colors ('red', 'pink', 'orange', 'green', 'blue', 'yellow', 'purple'). 
   
