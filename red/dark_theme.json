@@ -1,199 +1,213 @@
 {
-  // "formRoot": {
-  //   "backgroundColor": "#000000"
-  // },
-  // "formContainer": {
-  //   "height": "100vh"
-  // },
-  // "formWrapper": {
-  //   "backgroundColor": "#000000"
-  // },
-  // "wrapperBorder": {
-  //   "border": " 1px solid #ffffff",
-  //   "borderRadius": "0.5rem"
-  // },
-  // "logoImgAndTitleWrapper": {},
-  // "logoImg": {},
-  // "sectionName": {
-  //   "color": "#ffffff"
-  // },
-  // "pageName": {
-  //   "color": "#ffffff"
-  // },
-  // "separator": {},
-  // "sectionWrapper": {},
-  // "sidebarNav": {},
-  // "sectionBtnSidebar": {
-  //   "color": "#ffffff"
-  // },
-  // "activeSection": {
-  //   "backgroundColor": "rgb(148 163 184)"
-  // },
-  // "pageBtnSidebar": {
-  //   "color": "#ffffff",
-  //   "paddingLeft": "30px"
-  // },
-  // "selectWrapper": {},
-  // "selectPlaceholder": {
-  //   "color": "#ffffff",
-  //   "background": "transparent"  
-  // },
-  // "selectContent": {
-  //   "backgroundColor": "#000000",
-  //   "border": " 1px solid #ffffff" 
-  // },
-  // "sectionSelect": {
-  //   "color": "#ffffff"
-  // },
-  // "pageSelect": {
-  //   "color": "#ffffff"
-  // },
-  // "sectionsPanel": {},
-  // "pageItemWrapper": {},
-  // "form": {},
-  // "textInputWrapper": {},
-  // "textInputLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "textInputDescription": {
-  //   "color": "#ffffff"
-  // },
+  "formRoot": {
+    "backgroundColor": "#000000"
+  },
+  "formContainer": {
+    "height": "100vh"
+  },
+  "formWrapper": {
+    "backgroundColor": "#000000"
+  },
+  "wrapperBorder": {
+    "border": " 1px solid #ffffff",
+    "borderRadius": "0.75"
+  },
+  "logoImgAndTitleWrapper": {},
+  "logoImg": {},
+  "sectionName": {
+    "color": "#ffffff"
+  },
+  "pageName": {
+    "color": "#ffffff"
+  },
+  "separator": {},
+  "sectionWrapper": {},
+  "sidebarNav": {},
+  "sectionBtnSidebar": {
+    "color": "#ffffff",
+    "borderRadius": "0.75"
+  },
+  "activeSection": {
+    "backgroundColor": "rgb(148 163 184)"
+  },
+  "pageBtnSidebar": {
+    "color": "#ffffff",
+    "paddingLeft": "30px",
+    "borderRadius": "0.75"
+  },
+  "selectWrapper": {},
+  "selectPlaceholder": {
+    "color": "#ffffff",
+    "background": "transparent"  
+  },
+  "selectContent": {
+    "backgroundColor": "#000000",
+    "border": " 1px solid #ffffff",
+    "borderRadius": "0.75" 
+  },
+  "sectionSelect": {
+    "color": "#ffffff",
+    "borderRadius": "0.75"
+  },
+  "pageSelect": {
+    "color": "#ffffff",
+    "borderRadius": "0.75"
+  },
+  "sectionsPanel": {},
+  "pageItemWrapper": {},
+  "form": {},
+  "textInputWrapper": {},
+  "textInputLabel": {
+    "color": "#ffffff"
+  },
+  "textInputDescription": {
+    "color": "#ffffff"
+  },
   "textInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]"
+    "focus-visible":"ring-[e11d48]",
+    "borderRadius": "0.75"
   },
   "textInputError": {
     "color": "rgb(127, 29, 29)"
   },
-  // "textAreaWrapper": {},
-  // "textAreaLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "textAreaDescription": {
-  //   "color": "#ffffff"
-  // },
+  "textAreaWrapper": {},
+  "textAreaLabel": {
+    "color": "#ffffff"
+  },
+  "textAreaDescription": {
+    "color": "#ffffff"
+  },
   "textArea": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]"
+    "focus-visible":"ring-[e11d48]",
+    "borderRadius": "0.75"
   },
   "textAreaError": {
     "color": "rgb(127, 29, 29)"
   },
-  // "numberInputWrapper": {},
-  // "numberInputLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "numberInputDescription": {
-  //   "color": "#ffffff"
-  // },
+  "numberInputWrapper": {},
+  "numberInputLabel": {
+    "color": "#ffffff"
+  },
+  "numberInputDescription": {
+    "color": "#ffffff"
+  },
   "numberInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]"
+    "focus-visible":"ring-[e11d48]",
+    "borderRadius": "0.75"
   },
   "numberInputError": {
     "color": "rgb(239, 68, 68)"
   },
-  // "emailInputWrapper": {},
-  // "emailInputLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "emailInputDescription": {
-  //   "color": "#ffffff"
-  // },
+  "emailInputWrapper": {},
+  "emailInputLabel": {
+    "color": "#ffffff"
+  },
+  "emailInputDescription": {
+    "color": "#ffffff"
+  },
   "emailInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]"
+    "focus-visible":"ring-[e11d48]",
+    "borderRadius": "0.75"
   },
   "emailInputError": {
     "color": "rgb(239, 68, 68)"
   },
-  // "booleanInputWrapper": {},
-  // "booleanInputDescription": {
-  //   "color": "#ffffff"
-  // },
+  "booleanInputWrapper": {},
+  "booleanInputDescription": {
+    "color": "#ffffff"
+  },
   "booleanInput": {
     "border": " 1px solid #ffffff",
+    "borderRadius": "0.75",
     "data-[state=checked]": "bg-[e11d48]"
   },
-  // "booleanInputLabel": {
-  //   "color": "#ffffff"
-  // },
+  "booleanInputLabel": {
+    "color": "#ffffff"
+  },
   "booleanInputError": {
     "color": "rgb(239, 68, 68)"
   },
-  // "checkboxListWrapper": {},
-  // "checkboxListLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "checkboxListDescription": {
-  //   "color": "#ffffff"
-  // },
-  // "checkboxListRoot": {},
-  // "checkboxListItem": {},
+  "checkboxListWrapper": {},
+  "checkboxListLabel": {
+    "color": "#ffffff"
+  },
+  "checkboxListDescription": {
+    "color": "#ffffff"
+  },
+  "checkboxListRoot": {},
+  "checkboxListItem": {},
   "checkboxList": {
     "border": " 1px solid rgb(225, 29, 72)",
+    "borderRadius": "0.75",
     "data-[state=checked]": "bg-[e11d48]"
   },
-  // "checkboxListItemLabel": {
-  //   "color": "#ffffff"
-  // },
+  "checkboxListItemLabel": {
+    "color": "#ffffff"
+  },
   "checkboxListError": {
     "color": "rgb(239, 68, 68)"
   },
-  // "radioWrapper": {},
-  // "radioLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "radioDescription": {
-  //   "color": "#ffffff"
-  // },
-  // "radioItem": {},
+  "radioWrapper": {},
+  "radioLabel": {
+    "color": "#ffffff"
+  },
+  "radioDescription": {
+    "color": "#ffffff"
+  },
+  "radioItem": {},
   "radio": {
-    "border": " 1px solid rgb(225, 29, 72)"
+    "border": " 1px solid rgb(225, 29, 72)",
+    "borderRadius": "0.75"
   },
   "radioChecked":{
     "data-[state=checked]": "bg-[e11d48]"
   },
-  // "radioItemLabel": {
-  //   "color": "#ffffff"
-  // },
+  "radioItemLabel": {
+    "color": "#ffffff"
+  },
   "radioError": {
     "color": "rgb(239, 68, 68)"
   },
-  // "passwordInputWrapper": {},
-  // "passwordInputLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "passwordInputDescription": {
-  //   "color": "#ffffff"
-  // },
+  "passwordInputWrapper": {},
+  "passwordInputLabel": {
+    "color": "#ffffff"
+  },
+  "passwordInputDescription": {
+    "color": "#ffffff"
+  },
   "passwordInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]"
+    "focus-visible":"ring-[e11d48]",
+    "borderRadius": "0.75"
   },
-  // "passwordConfirmationInputLabel": {
-  //   "color": "#ffffff"
-  // },
+  "passwordConfirmationInputLabel": {
+    "color": "#ffffff"
+  },
   "passwordConfirmationInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]"
+    "focus-visible":"ring-[e11d48]",
+    "borderRadius": "0.75"
   },
   "passwordInputError": {
     "color": "rgb(239, 68, 68)"
   },
-  // "fileInputWrapper": {},
-  // "fileInputLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "fileInputDescription": {
-  //   "color": "#ffffff"
-  // },
+  "fileInputWrapper": {},
+  "fileInputLabel": {
+    "color": "#ffffff"
+  },
+  "fileInputDescription": {
+    "color": "#ffffff"
+  },
   "fileInput": {
     "background": "transparent",
     "color": "#ffffff",
@@ -202,210 +216,172 @@
   "fileInputError": {
     "color": "rgb(239, 68, 68)"
   },
-  // "textContentWrapper": {},
-  // "h1_textContent": {
-  //   "color": "#ffffff",
-  //   "fontSize": "2.25rem",
-  //   "lineHeight": "2.5rem",
-  //   "fontWeight": "800"
-  // },
-  // "h2_textContent": {
-  //   "color": "#ffffff",
-  //   "fontSize": "1.875rem",
-  //   "lineHeight": "2.25rem",
-  //   "fontWeight": "600"
-  // },
-  // "h3_textContent": {
-  //   "color": "#ffffff",
-  //   "fontSize": "1.5rem",
-  //   "lineHeight": "2rem",
-  //   "fontWeight": "600"
-  // },
-  // "h4_textContent": {
-  //   "color": "#ffffff",
-  //   "fontSize": "1.25rem",
-  //   "lineHeight": "1.75rem",
-  //   "fontWeight": "600"
-  // },
-  // "h5_textContent": {
-  //   "color": "#ffffff",
-  //   "fontSize": "1rem",
-  //   "lineHeight": "1.5rem",
-  //   "fontWeight": "600"
-  // },
-  // "h6_textContent": {
-  //   "color": "#ffffff",
-  //   "fontSize": "0.875rem",
-  //   "lineHeight": "1.25rem",
-  //   "fontWeight": "600"
-  // },
-  // "p_textContent": {
-  //   "color": "#ffffff",
-  //   "fontSize": "0.875rem",
-  //   "lineHeight": "1.25rem",
-  //   "fontWeight": "500"
-  // },
-  // "span_textContent": {
-  //   "color": "#ffffff",
-  //   "fontSize": "0.875rem",
-  //   "lineHeight": "1.25rem",
-  //   "fontWeight": "400"
-  // },
-  // "btnsWrapper": {},
+  "textContentWrapper": {},
+  "h1_textContent": {
+    "color": "#ffffff",
+    "fontSize": "2.25rem",
+    "lineHeight": "2.5rem",
+    "fontWeight": "800"
+  },
+  "h2_textContent": {
+    "color": "#ffffff",
+    "fontSize": "1.875rem",
+    "lineHeight": "2.25rem",
+    "fontWeight": "600"
+  },
+  "h3_textContent": {
+    "color": "#ffffff",
+    "fontSize": "1.5rem",
+    "lineHeight": "2rem",
+    "fontWeight": "600"
+  },
+  "h4_textContent": {
+    "color": "#ffffff",
+    "fontSize": "1.25rem",
+    "lineHeight": "1.75rem",
+    "fontWeight": "600"
+  },
+  "h5_textContent": {
+    "color": "#ffffff",
+    "fontSize": "1rem",
+    "lineHeight": "1.5rem",
+    "fontWeight": "600"
+  },
+  "h6_textContent": {
+    "color": "#ffffff",
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "600"
+  },
+  "p_textContent": {
+    "color": "#ffffff",
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "500"
+  },
+  "span_textContent": {
+    "color": "#ffffff",
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "400"
+  },
+  "btnsWrapper": {},
   "prevBtn": {
     "backgroundColor": "rgb(225, 29, 72)",
+    "color": "#ffffff",
+    "borderRadius": "0.75"
+  },
+  "prevBtnImg": {
     "color": "#ffffff"
   },
-  // "prevBtnImg": {
-  //   "color": "#ffffff"
-  // },
   "nextBtn": {
     "backgroundColor": "rgb(225, 29, 72)",
+    "color": "#ffffff",
+    "borderRadius": "0.75"
+  },
+  "nextBtnImg": {
     "color": "#ffffff"
   },
-  // "nextBtnImg": {
-  //   "color": "#ffffff"
-  // },
-  // "progressBar": {},
+  "progressBar": {},
   "progressBarIndicator": {
     "backgroundColor": "rgb(225, 29, 72)"
   },
-  // "loaderSpinnerColor": {
-  //   "color": "#ffffff"
-  // },
-  // "dateWrapper": {},
-  // "dateLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "dateDescription": {
-  //   "color": "#ffffff"
-  // },
-  "dateBtn": {
-    "borderColor": "rgb(225, 29, 72)"
+  "loaderSpinnerColor": {
+    "color": "#ffffff"
   },
-  // "calendarImg": {
-  //   "marginLeft": "18px"
-  // },
+  "dateWrapper": {},
+  "dateLabel": {
+    "color": "#ffffff"
+  },
+  "dateDescription": {
+    "color": "#ffffff"
+  },
+  "dateBtn": {
+    "borderColor": "rgb(225, 29, 72)",
+    "borderRadius": "0.75"
+  },
+  "calendarImg": {
+    "marginLeft": "18px"
+  },
   "dateCalendar": {
     "day_selected": "bg-[e11d48]"
   },
   "dateError": {
     "color": "rgb(239, 68, 68)"
   },
-  // "dropdownWrapper": {},
-  // "dropdownLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "dropdownDescription": {
-  //   "color": "#ffffff"
-  // },
-  // "searchDropdownBtn": {
-  //   "background": "transparent",
-  //   "color": "#ffffff"
-  // },
-  // "caretSortIcon": {},
-  // "searchDropdownInput": {},
-  // "searchDropdownEmpty": {},
-  // "searchDropdownItem": {},
+  "dropdownWrapper": {},
+  "dropdownLabel": {
+    "color": "#ffffff"
+  },
+  "dropdownDescription": {
+    "color": "#ffffff"
+  },
+  "searchDropdownBtn": {
+    "background": "transparent",
+    "color": "#ffffff",
+    "borderRadius": "0.75"
+  },
+  "caretSortIcon": {},
+  "searchDropdownInput": {
+    "borderRadius": "0.75"
+  },
+  "searchDropdownEmpty": {},
+  "searchDropdownItem": {},
   "dropdownPlaceholder": {
     "color": "#ffffff",
     "background": "transparent",
-    "focus":"ring-[e11d48]"
+    "focus":"ring-[e11d48]",
+    "borderRadius": "0.75"
   },
-  // "dropdownContent": {
-  //   "backgroundColor": "#000000",
-  //   "border": " 1px solid #ffffff"
-  // },
-  // "dropdownItem": {
-  //   "color": "#ffffff"
-  // },
+  "dropdownContent": {
+    "backgroundColor": "#000000",
+    "border": " 1px solid #ffffff",
+    "borderRadius": "0.75"
+  },
+  "dropdownItem": {
+    "color": "#ffffff"
+  },
   "dropdownError": {
     "color": "rgb(239, 68, 68)"
   },
-  // "sectionBtnWrapper": {},
-  // "sectionBtnSidebarTop": {},
-  // "activeSectionSidebarTop": {
-  //   "color": "#ffffff",
-  //   "backgroundColor": "rgb(148 163 184)"
-  // },
-  // "cardSelectionWrapper": {},
-  // "cardSelectionLabel": {
-  //   "color": "#ffffff"
-  // },
-  // "cardSelectionList": {
-  //   "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
-  // },
-  // "cardSelectionDescription": {
-  //   "color": "#ffffff"
-  // },
-  // "cardSelectionItem": {
-  //   "background": "transparent",
-  //   "border": "1px solid #ffffff"
-  // },
-  "cardSelectionItemChecked": {
-    "borderColor": "rgb(225, 29, 72)"
+  "sectionBtnWrapper": {},
+  "sectionBtnSidebarTop": {
+    "borderRadius": "0.75"
   },
-  // "cardSelectionItemImageWrapper": {},
-  // "cardSelectionItemImage": {
-  //   "width": "90%",
-  //   "height": "auto",
-  //   "objectFit": "contain"
-  // },
-  // "cardSelectionItemLabelWrapper": {},
-  // "cardSelectionItemLabel": {
-  //   "color": "#ffffff"
-  // },
+  "activeSectionSidebarTop": {
+    "color": "#ffffff",
+    "backgroundColor": "rgb(148 163 184)"
+  },
+  "cardSelectionWrapper": {},
+  "cardSelectionLabel": {
+    "color": "#ffffff"
+  },
+  "cardSelectionList": {
+    "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+  },
+  "cardSelectionDescription": {
+    "color": "#ffffff"
+  },
+  "cardSelectionItem": {
+    "background": "transparent",
+    "border": "1px solid #ffffff",
+    "borderRadius": "0.75"
+  },
+  "cardSelectionItemChecked": {
+    "borderColor": "rgb(225, 29, 72)",
+    "borderRadius": "0.75"
+  },
+  "cardSelectionItemImageWrapper": {},
+  "cardSelectionItemImage": {
+    "width": "90%",
+    "height": "auto",
+    "objectFit": "contain"
+  },
+  "cardSelectionItemLabelWrapper": {},
+  "cardSelectionItemLabel": {
+    "color": "#ffffff"
+  },
   "cardSelectionError": {
     "color": "rgb(239, 68, 68)"
   }
 }
-
-
-
-
-// @layer base {
-//   :root {
-//     --background: 0 0% 100%;
-//     --foreground: 240 10% 3.9%;
-//     --card: 0 0% 100%;
-//     --card-foreground: 240 10% 3.9%;
-//     --popover: 0 0% 100%;
-//     --popover-foreground: 240 10% 3.9%;
-//     --primary: 346.8 77.2% 49.8%;
-//     --primary-foreground: 355.7 100% 97.3%;
-//     --secondary: 240 4.8% 95.9%;
-//     --secondary-foreground: 240 5.9% 10%;
-//     --muted: 240 4.8% 95.9%;
-//     --muted-foreground: 240 3.8% 46.1%;
-//     --accent: 240 4.8% 95.9%;
-//     --accent-foreground: 240 5.9% 10%;
-//     --destructive: 0 84.2% 60.2%;
-//     --destructive-foreground: 0 0% 98%;
-//     --border: 240 5.9% 90%;
-//     --input: 240 5.9% 90%;
-//     --ring: 346.8 77.2% 49.8%;
-//     --radius: 0.5rem;
-//   }
-
-//   .dark {
-//     --background: 20 14.3% 4.1%;
-//     --foreground: 0 0% 95%;
-//     --card: 24 9.8% 10%;
-//     --card-foreground: 0 0% 95%;
-//     --popover: 0 0% 9%;
-//     --popover-foreground: 0 0% 95%;
-//     --primary: 346.8 77.2% 49.8%;
-//     --primary-foreground: 355.7 100% 97.3%;
-//     --secondary: 240 3.7% 15.9%;
-//     --secondary-foreground: 0 0% 98%;
-//     --muted: 0 0% 15%;
-//     --muted-foreground: 240 5% 64.9%;
-//     --accent: 12 6.5% 15.1%;
-//     --accent-foreground: 0 0% 98%;
-//     --destructive: 0 62.8% 30.6%;
-//     --destructive-foreground: 0 85.7% 97.3%;
-//     --border: 240 3.7% 15.9%;
-//     --input: 240 3.7% 15.9%;
-//     --ring: 346.8 77.2% 49.8%;
-//   }
-// }
