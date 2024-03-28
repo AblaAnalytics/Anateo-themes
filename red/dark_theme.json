@@ -66,7 +66,7 @@
   "textInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "textInputError": {
@@ -82,7 +82,7 @@
   "textArea": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "textAreaError": {
@@ -98,7 +98,7 @@
   "numberInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "numberInputError": {
@@ -114,7 +114,7 @@
   "emailInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "emailInputError": {
@@ -186,7 +186,7 @@
   "passwordInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "passwordConfirmationInputLabel": {
@@ -195,7 +195,7 @@
   "passwordConfirmationInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "passwordInputError": {

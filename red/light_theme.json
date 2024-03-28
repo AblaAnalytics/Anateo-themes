@@ -38,7 +38,7 @@
   "textInputLabel": {},
   "textInputDescription": {},
   "textInput": {
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "textInputError": {
@@ -48,7 +48,7 @@
   "textAreaLabel": {},
   "textAreaDescription": {},
   "textArea": {
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "textAreaError": {
@@ -58,7 +58,7 @@
   "numberInputLabel": {},
   "numberInputDescription": {},
   "numberInput": {
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "numberInputError": {
@@ -68,7 +68,7 @@
   "emailInputLabel": {},
   "emailInputDescription": {},
   "emailInput": {
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "emailInputError": {
@@ -117,12 +117,12 @@
   "passwordInputLabel": {},
   "passwordInputDescription": {},
   "passwordInput": {
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "passwordConfirmationInputLabel": {},
   "passwordConfirmationInput": {
-    "focus-visible":"ring-[e11d48]",
+    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.75"
   },
   "passwordInputError": {
