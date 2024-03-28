@@ -3,7 +3,7 @@
   "formContainer": {},
   "formWrapper": {},
   "wrapperBorder": {
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "logoImgAndTitleWrapper": {},
   "logoImg": {},
@@ -13,23 +13,23 @@
   "sectionWrapper": {},
   "sidebarNav": {},
   "sectionBtnSidebar": {
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "activeSection": {},
   "pageBtnSidebar": {
     "paddingLeft": "30px",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "selectWrapper": {},
   "selectPlaceholder": {},
   "selectContent": {
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "sectionSelect": {
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "pageSelect": {
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "sectionsPanel": {},
   "pageItemWrapper": {},
@@ -39,7 +39,7 @@
   "textInputDescription": {},
   "textInput": {
     "focusVisible":"ring-[e11d48]",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "textInputError": {
     "color": "rgb(239, 68, 68)"
@@ -49,7 +49,7 @@
   "textAreaDescription": {},
   "textArea": {
     "focusVisible":"ring-[e11d48]",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "textAreaError": {
     "color": "rgb(239, 68, 68)"
@@ -59,7 +59,7 @@
   "numberInputDescription": {},
   "numberInput": {
     "focusVisible":"ring-[e11d48]",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "numberInputError": {
     "color": "rgb(239, 68, 68)"
@@ -69,7 +69,7 @@
   "emailInputDescription": {},
   "emailInput": {
     "focusVisible":"ring-[e11d48]",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "emailInputError": {
     "color": "rgb(239, 68, 68)"
@@ -78,7 +78,7 @@
   "booleanInputDescription": {},
   "booleanInput": {
     "data-[state=checked]": "bg-[e11d48]",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "booleanInputLabel": {},
   "booleanInputError": {
@@ -91,7 +91,7 @@
   "checkboxListItem": {},
   "checkboxList": {
     "borderColor": "rgb(225, 29, 72)",
-    "borderRadius": "0.75",
+    "borderRadius": "0.75rem",
     "data-[state=checked]": "bg-[e11d48]"
   },
   "checkboxListItemLabel": {},
@@ -104,7 +104,7 @@
   "radioItem": {},
   "radio": {
     "borderColor": "rgb(225, 29, 72)",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "radioChecked":{
     "data-[state=checked]": "bg-[e11d48]"
@@ -118,12 +118,12 @@
   "passwordInputDescription": {},
   "passwordInput": {
     "focusVisible":"ring-[e11d48]",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "passwordConfirmationInputLabel": {},
   "passwordConfirmationInput": {
     "focusVisible":"ring-[e11d48]",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "passwordInputError": {
     "color": "rgb(239, 68, 68)"
@@ -182,13 +182,13 @@
   "prevBtn": {
     "backgroundColor": "rgb(225, 29, 72)",
     "color": "#ffffff",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "prevBtnImg": {},
   "nextBtn": {
     "backgroundColor": "rgb(225, 29, 72)",
     "color": "#ffffff",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "nextBtnImg": {},
   "progressBar": {},
@@ -201,7 +201,7 @@
   "dateDescription": {},
   "dateBtn": {
     "borderColor": "rgb(225, 29, 72)",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "calendarImg": {
     "marginLeft": "18px"
@@ -216,20 +216,20 @@
   "dropdownLabel": {},
   "dropdownDescription": {},
   "searchDropdownBtn": {
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "caretSortIcon": {},
   "searchDropdownInput": {
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "searchDropdownEmpty": {},
   "searchDropdownItem": {},
   "dropdownPlaceholder": {
     "focus":"ring-[e11d48]",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "dropdownContent": {
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "dropdownItem": {},
   "dropdownError": {
@@ -237,7 +237,7 @@
   },
   "sectionBtnWrapper": {},
   "sectionBtnSidebarTop": {
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "activeSectionSidebarTop": {},
   "cardSelectionWrapper": {},
@@ -247,11 +247,11 @@
   "cardSelectionLabel": {},
   "cardSelectionDescription": {},
   "cardSelectionItem": {
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "cardSelectionItemChecked": {
     "borderColor": "rgb(225, 29, 72)",
-    "borderRadius": "0.75"
+    "borderRadius": "0.75rem"
   },
   "cardSelectionItemImageWrapper": {},
   "cardSelectionItemImage": {
