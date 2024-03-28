@@ -1,0 +1,267 @@
+{
+  "formRoot": {},
+  "formContainer": {},
+  "formWrapper": {},
+  "wrapperBorder": {
+    "borderRadius": "1rem"
+  },
+  "logoImgAndTitleWrapper": {},
+  "logoImg": {},
+  "sectionName": {},
+  "pageName": {},
+  "separator": {},
+  "sectionWrapper": {},
+  "sidebarNav": {},
+  "sectionBtnSidebar": {
+    "borderRadius": "1rem"
+  },
+  "activeSection": {},
+  "pageBtnSidebar": {
+    "paddingLeft": "30px",
+    "borderRadius": "1rem"
+  },
+  "selectWrapper": {},
+  "selectPlaceholder": {},
+  "selectContent": {
+    "borderRadius": "1rem"
+  },
+  "sectionSelect": {
+    "borderRadius": "1rem"
+  },
+  "pageSelect": {
+    "borderRadius": "1rem"
+  },
+  "sectionsPanel": {},
+  "pageItemWrapper": {},
+  "form": {},
+  "textInputWrapper": {},
+  "textInputLabel": {},
+  "textInputDescription": {},
+  "textInput": {
+    "focusVisible":"ring-[16a34a]",
+    "borderRadius": "1rem"
+  },
+  "textInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "textAreaWrapper": {},
+  "textAreaLabel": {},
+  "textAreaDescription": {},
+  "textArea": {
+    "focusVisible":"ring-[16a34a]",
+    "borderRadius": "1rem"
+  },
+  "textAreaError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "numberInputWrapper": {},
+  "numberInputLabel": {},
+  "numberInputDescription": {},
+  "numberInput": {
+    "focusVisible":"ring-[16a34a]",
+    "borderRadius": "1rem"
+  },
+  "numberInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "emailInputWrapper": {},
+  "emailInputLabel": {},
+  "emailInputDescription": {},
+  "emailInput": {
+    "focusVisible":"ring-[16a34a]",
+    "borderRadius": "1rem"
+  },
+  "emailInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "booleanInputWrapper": {},
+  "booleanInputDescription": {},
+  "booleanInput": {
+    "data-[state=checked]": "bg-[16a34a]",
+    "borderRadius": "1rem"
+  },
+  "booleanInputLabel": {},
+  "booleanInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "checkboxListWrapper": {},
+  "checkboxListLabel": {},
+  "checkboxListDescription": {},
+  "checkboxListRoot": {},
+  "checkboxListItem": {},
+  "checkboxList": {
+    "borderColor": "rgb(22, 163, 74)",
+    "borderRadius": "1rem",
+    "data-[state=checked]": "bg-[16a34a]"
+  },
+  "checkboxListItemLabel": {},
+  "checkboxListError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "radioWrapper": {},
+  "radioLabel": {},
+  "radioDescription": {},
+  "radioItem": {},
+  "radio": {
+    "borderColor": "rgb(22, 163, 74)",
+    "borderRadius": "1rem"
+  },
+  "radioChecked":{
+    "data-[state=checked]": "bg-[16a34a]"
+  },
+  "radioItemLabel": {},
+  "radioError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "passwordInputWrapper": {},
+  "passwordInputLabel": {},
+  "passwordInputDescription": {},
+  "passwordInput": {
+    "focusVisible":"ring-[16a34a]",
+    "borderRadius": "1rem"
+  },
+  "passwordConfirmationInputLabel": {},
+  "passwordConfirmationInput": {
+    "focusVisible":"ring-[16a34a]",
+    "borderRadius": "1rem"
+  },
+  "passwordInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "fileInputWrapper": {},
+  "fileInputLabel": {},
+  "fileInputDescription": {},
+  "fileInput": {
+    "border": " 1px solid rgb(22, 163, 74)"
+  },
+  "fileInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "textContentWrapper": {},
+  "h1_textContent": {
+    "fontSize": "2.25rem",
+    "lineHeight": "2.5rem",
+    "fontWeight": "800"
+  },
+  "h2_textContent": {
+    "fontSize": "1.875rem",
+    "lineHeight": "2.25rem",
+    "fontWeight": "600"
+  },
+  "h3_textContent": {
+    "fontSize": "1.5rem",
+    "lineHeight": "2rem",
+    "fontWeight": "600"
+  },
+  "h4_textContent": {
+    "fontSize": "1.25rem",
+    "lineHeight": "1.75rem",
+    "fontWeight": "600"
+  },
+  "h5_textContent": {
+    "fontSize": "1rem",
+    "lineHeight": "1.5rem",
+    "fontWeight": "600"
+  },
+  "h6_textContent": {
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "600"
+  },
+  "p_textContent": {
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "500"
+  },
+  "span_textContent": {
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "400"
+  },
+  "btnsWrapper": {},
+  "prevBtn": {
+    "backgroundColor": "rgb(22, 163, 74)",
+    "color": "#ffffff",
+    "borderRadius": "1rem"
+  },
+  "prevBtnImg": {},
+  "nextBtn": {
+    "backgroundColor": "rgb(22, 163, 74)",
+    "color": "#ffffff",
+    "borderRadius": "1rem"
+  },
+  "nextBtnImg": {},
+  "progressBar": {},
+  "progressBarIndicator": {
+    "backgroundColor": "rgb(22, 163, 74)"
+  },
+  "loaderSpinnerColor": {},
+  "dateWrapper": {},
+  "dateLabel": {},
+  "dateDescription": {},
+  "dateBtn": {
+    "borderColor": "rgb(22, 163, 74)",
+    "borderRadius": "1rem"
+  },
+  "calendarImg": {
+    "marginLeft": "18px"
+  },
+  "dateCalendar": {
+    "day_selected": "bg-[16a34a]"
+  },
+  "dateError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "dropdownWrapper": {},
+  "dropdownLabel": {},
+  "dropdownDescription": {},
+  "searchDropdownBtn": {
+    "borderRadius": "1rem"
+  },
+  "caretSortIcon": {},
+  "searchDropdownInput": {
+    "borderRadius": "1rem"
+  },
+  "searchDropdownEmpty": {},
+  "searchDropdownItem": {},
+  "dropdownPlaceholder": {
+    "focus":"ring-[16a34a]",
+    "borderRadius": "1rem"
+  },
+  "dropdownContent": {
+    "borderRadius": "1rem"
+  },
+  "dropdownItem": {},
+  "dropdownError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "sectionBtnWrapper": {},
+  "sectionBtnSidebarTop": {
+    "borderRadius": "1rem"
+  },
+  "activeSectionSidebarTop": {},
+  "cardSelectionWrapper": {},
+  "cardSelectionList": {
+    "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+  },
+  "cardSelectionLabel": {},
+  "cardSelectionDescription": {},
+  "cardSelectionItem": {
+    "borderRadius": "1rem"
+  },
+  "cardSelectionItemChecked": {
+    "borderColor": "rgb(22, 163, 74)",
+    "borderRadius": "1rem"
+  },
+  "cardSelectionItemImageWrapper": {},
+  "cardSelectionItemImage": {
+    "width": "90%",
+    "height": "auto",
+    "objectFit": "contain"
+  },
+  "cardSelectionItemLabelWrapper": {},
+  "cardSelectionItemLabel": {},
+  "cardSelectionError": {
+    "color": "rgb(239, 68, 68)"
+  }
+}
