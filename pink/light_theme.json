@@ -173,7 +173,7 @@
     "backgroundColor": "rgb(225, 29, 72)",
     "color": "#ffffff",
     "borderRadius": "0.25rem",
-    "hover": {
+    "&hover": {
       "borderColor": "blue"
     }
   },
