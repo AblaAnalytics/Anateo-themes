@@ -66,7 +66,6 @@
   "textInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "textInputError": {
@@ -82,7 +81,6 @@
   "textArea": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "textAreaError": {
@@ -98,11 +96,10 @@
   "numberInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "numberInputError": {
-    "color": "rgb(239, 68, 68)"
+    "color": "rgb(127, 29, 29)"
   },
   "emailInputWrapper": {},
   "emailInputLabel": {
@@ -114,25 +111,23 @@
   "emailInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "emailInputError": {
-    "color": "rgb(239, 68, 68)"
+    "color": "rgb(127, 29, 29)"
   },
   "booleanInputWrapper": {},
   "booleanInputDescription": {
     "color": "#ffffff"
   },
   "booleanInput": {
-    "border": " 1px solid #ffffff",
-    "data-[state=checked]": "bg-[e11d48]"
+    "border": " 1px solid #ffffff"
   },
   "booleanInputLabel": {
     "color": "#ffffff"
   },
   "booleanInputError": {
-    "color": "rgb(239, 68, 68)"
+    "color": "rgb(127, 29, 29)"
   },
   "checkboxListWrapper": {},
   "checkboxListLabel": {
@@ -145,14 +140,13 @@
   "checkboxListItem": {},
   "checkboxList": {
     "border": " 1px solid rgb(225, 29, 72)",
-    "borderRadius": "0.25rem",
-    "data-[state=checked]": "bg-[e11d48]"
+    "borderRadius": "0.25rem"
   },
   "checkboxListItemLabel": {
     "color": "#ffffff"
   },
   "checkboxListError": {
-    "color": "rgb(239, 68, 68)"
+    "color": "rgb(127, 29, 29)"
   },
   "radioWrapper": {},
   "radioLabel": {
@@ -166,14 +160,12 @@
     "border": " 1px solid rgb(225, 29, 72)",
     "borderRadius": "0.25rem"
   },
-  "radioChecked":{
-    "data-[state=checked]": "bg-[e11d48]"
-  },
+  "radioChecked":{},
   "radioItemLabel": {
     "color": "#ffffff"
   },
   "radioError": {
-    "color": "rgb(239, 68, 68)"
+    "color": "rgb(127, 29, 29)"
   },
   "passwordInputWrapper": {},
   "passwordInputLabel": {
@@ -185,7 +177,6 @@
   "passwordInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "passwordConfirmationInputLabel": {
@@ -194,11 +185,10 @@
   "passwordConfirmationInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "passwordInputError": {
-    "color": "rgb(239, 68, 68)"
+    "color": "rgb(127, 29, 29)"
   },
   "fileInputWrapper": {},
   "fileInputLabel": {
@@ -213,7 +203,7 @@
     "border": " 1px solid rgb(225, 29, 72)"
   },
   "fileInputError": {
-    "color": "rgb(239, 68, 68)"
+    "color": "rgb(127, 29, 29)"
   },
   "textContentWrapper": {},
   "h1_textContent": {
@@ -306,7 +296,7 @@
     "day_selected": "bg-[e11d48]"
   },
   "dateError": {
-    "color": "rgb(239, 68, 68)"
+    "color": "rgb(127, 29, 29)"
   },
   "dropdownWrapper": {},
   "dropdownLabel": {
@@ -329,7 +319,6 @@
   "dropdownPlaceholder": {
     "color": "#ffffff",
     "background": "transparent",
-    "focus":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "dropdownContent": {
@@ -341,7 +330,7 @@
     "color": "#ffffff"
   },
   "dropdownError": {
-    "color": "rgb(239, 68, 68)"
+    "color": "rgb(127, 29, 29)"
   },
   "sectionBtnWrapper": {},
   "sectionBtnSidebarTop": {
@@ -381,6 +370,6 @@
     "color": "#ffffff"
   },
   "cardSelectionError": {
-    "color": "rgb(239, 68, 68)"
+    "color": "rgb(127, 29, 29)"
   }
 }

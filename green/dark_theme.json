@@ -66,7 +66,6 @@
   "textInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[92d6ab]",
     "borderRadius": "1rem"
   },
   "textInputError": {
@@ -82,7 +81,6 @@
   "textArea": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[92d6ab]",
     "borderRadius": "1rem"
   },
   "textAreaError": {
@@ -98,7 +96,6 @@
   "numberInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[92d6ab]",
     "borderRadius": "1rem"
   },
   "numberInputError": {
@@ -114,7 +111,6 @@
   "emailInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[92d6ab]",
     "borderRadius": "1rem"
   },
   "emailInputError": {
@@ -125,8 +121,7 @@
     "color": "#ffffff"
   },
   "booleanInput": {
-    "border": " 1px solid #ffffff",
-    "data-[state=checked]": "bg-[92d6ab]"
+    "border": "1px solid #ffffff"
   },
   "booleanInputLabel": {
     "color": "#ffffff"
@@ -145,8 +140,7 @@
   "checkboxListItem": {},
   "checkboxList": {
     "border": " 1px solid rgb(146, 214, 171)",
-    "borderRadius": "1rem",
-    "data-[state=checked]": "bg-[92d6ab]"
+    "borderRadius": "1rem"
   },
   "checkboxListItemLabel": {
     "color": "#ffffff"
@@ -166,9 +160,7 @@
     "border": " 1px solid rgb(146, 214, 171)",
     "borderRadius": "1rem"
   },
-  "radioChecked":{
-    "data-[state=checked]": "bg-[92d6ab]"
-  },
+  "radioChecked":{},
   "radioItemLabel": {
     "color": "#ffffff"
   },
@@ -185,7 +177,6 @@
   "passwordInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[92d6ab]",
     "borderRadius": "1rem"
   },
   "passwordConfirmationInputLabel": {
@@ -194,7 +185,6 @@
   "passwordConfirmationInput": {
     "background": "transparent",
     "color": "#ffffff",
-    "focusVisible":"ring-[92d6ab]",
     "borderRadius": "1rem"
   },
   "passwordInputError": {
@@ -329,7 +319,6 @@
   "dropdownPlaceholder": {
     "color": "#ffffff",
     "background": "transparent",
-    "focus":"ring-[92d6ab]",
     "borderRadius": "1rem"
   },
   "dropdownContent": {

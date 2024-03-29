@@ -38,7 +38,6 @@
   "textInputLabel": {},
   "textInputDescription": {},
   "textInput": {
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "textInputError": {
@@ -48,7 +47,6 @@
   "textAreaLabel": {},
   "textAreaDescription": {},
   "textArea": {
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "textAreaError": {
@@ -58,7 +56,6 @@
   "numberInputLabel": {},
   "numberInputDescription": {},
   "numberInput": {
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "numberInputError": {
@@ -68,7 +65,6 @@
   "emailInputLabel": {},
   "emailInputDescription": {},
   "emailInput": {
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "emailInputError": {
@@ -76,9 +72,7 @@
   },
   "booleanInputWrapper": {},
   "booleanInputDescription": {},
-  "booleanInput": {
-    "data-[state=checked]": "bg-[e11d48]",
-  },
+  "booleanInput": {},
   "booleanInputLabel": {},
   "booleanInputError": {
     "color": "rgb(239, 68, 68)"
@@ -90,8 +84,7 @@
   "checkboxListItem": {},
   "checkboxList": {
     "borderColor": "rgb(225, 29, 72)",
-    "borderRadius": "0.25rem",
-    "data-[state=checked]": "bg-[e11d48]"
+    "borderRadius": "0.25rem"
   },
   "checkboxListItemLabel": {},
   "checkboxListError": {
@@ -105,9 +98,7 @@
     "borderColor": "rgb(225, 29, 72)",
     "borderRadius": "0.25rem"
   },
-  "radioChecked":{
-    "data-[state=checked]": "bg-[e11d48]"
-  },
+  "radioChecked":{},
   "radioItemLabel": {},
   "radioError": {
     "color": "rgb(239, 68, 68)"
@@ -116,12 +107,10 @@
   "passwordInputLabel": {},
   "passwordInputDescription": {},
   "passwordInput": {
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "passwordConfirmationInputLabel": {},
   "passwordConfirmationInput": {
-    "focusVisible":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "passwordInputError": {
@@ -224,7 +213,6 @@
   "searchDropdownEmpty": {},
   "searchDropdownItem": {},
   "dropdownPlaceholder": {
-    "focus":"ring-[e11d48]",
     "borderRadius": "0.25rem"
   },
   "dropdownContent": {
