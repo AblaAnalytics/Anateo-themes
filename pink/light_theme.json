@@ -78,7 +78,6 @@
   "booleanInputDescription": {},
   "booleanInput": {
     "data-[state=checked]": "bg-[e11d48]",
-    "borderRadius": "0.25rem"
   },
   "booleanInputLabel": {},
   "booleanInputError": {

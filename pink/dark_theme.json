@@ -126,7 +126,6 @@
   },
   "booleanInput": {
     "border": " 1px solid #ffffff",
-    "borderRadius": "0.25rem",
     "data-[state=checked]": "bg-[e11d48]"
   },
   "booleanInputLabel": {
