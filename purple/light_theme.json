@@ -1,0 +1,256 @@
+{
+  "formRoot": {},
+  "formContainer": {},
+  "formWrapper": {},
+  "wrapperBorder": {
+    "borderRadius": "0rem"
+  },
+  "logoImgAndTitleWrapper": {},
+  "logoImg": {},
+  "sectionName": {
+    "color": "blue"
+  },
+  "pageName": {},
+  "separator": {},
+  "sectionWrapper": {},
+  "sidebarNav": {},
+  "sectionBtnSidebar": {
+    "borderRadius": "0rem"
+  },
+  "activeSection": {},
+  "pageBtnSidebar": {
+    "paddingLeft": "30px",
+    "borderRadius": "0rem"
+  },
+  "selectWrapper": {},
+  "selectPlaceholder": {},
+  "selectContent": {
+    "borderRadius": "0rem"
+  },
+  "sectionSelect": {
+    "borderRadius": "0rem"
+  },
+  "pageSelect": {
+    "borderRadius": "0rem"
+  },
+  "sectionsPanel": {},
+  "pageItemWrapper": {},
+  "form": {},
+  "textInputWrapper": {},
+  "textInputLabel": {},
+  "textInputDescription": {},
+  "textInput": {
+    "borderRadius": "0rem"
+  },
+  "textInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "textAreaWrapper": {},
+  "textAreaLabel": {},
+  "textAreaDescription": {},
+  "textArea": {
+    "borderRadius": "0rem"
+  },
+  "textAreaError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "numberInputWrapper": {},
+  "numberInputLabel": {},
+  "numberInputDescription": {},
+  "numberInput": {
+    "borderRadius": "0rem"
+  },
+  "numberInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "emailInputWrapper": {},
+  "emailInputLabel": {},
+  "emailInputDescription": {},
+  "emailInput": {
+    "borderRadius": "0rem"
+  },
+  "emailInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "booleanInputWrapper": {},
+  "booleanInputDescription": {},
+  "booleanInput": {},
+  "booleanInputLabel": {},
+  "booleanInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "checkboxListWrapper": {},
+  "checkboxListLabel": {},
+  "checkboxListDescription": {},
+  "checkboxListRoot": {},
+  "checkboxListItem": {},
+  "checkboxList": {
+    "borderColor": "rgb(124, 58, 237)",
+    "borderRadius": "0rem"
+  },
+  "checkboxListItemLabel": {},
+  "checkboxListError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "radioWrapper": {},
+  "radioLabel": {},
+  "radioDescription": {},
+  "radioItem": {},
+  "radio": {
+    "borderColor": "rgb(124, 58, 237)",
+    "borderRadius": "0rem"
+  },
+  "radioChecked":{},
+  "radioItemLabel": {},
+  "radioError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "passwordInputWrapper": {},
+  "passwordInputLabel": {},
+  "passwordInputDescription": {},
+  "passwordInput": {
+    "borderRadius": "0rem"
+  },
+  "passwordConfirmationInputLabel": {},
+  "passwordConfirmationInput": {
+    "borderRadius": "0rem"
+  },
+  "passwordInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "fileInputWrapper": {},
+  "fileInputLabel": {},
+  "fileInputDescription": {},
+  "fileInput": {
+    "border": " 1px solid rgb(124, 58, 237)"
+  },
+  "fileInputError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "textContentWrapper": {},
+  "h1_textContent": {
+    "fontSize": "2.25rem",
+    "lineHeight": "2.5rem",
+    "fontWeight": "800"
+  },
+  "h2_textContent": {
+    "fontSize": "1.875rem",
+    "lineHeight": "2.25rem",
+    "fontWeight": "600"
+  },
+  "h3_textContent": {
+    "fontSize": "1.5rem",
+    "lineHeight": "2rem",
+    "fontWeight": "600"
+  },
+  "h4_textContent": {
+    "fontSize": "1.25rem",
+    "lineHeight": "1.75rem",
+    "fontWeight": "600"
+  },
+  "h5_textContent": {
+    "fontSize": "1rem",
+    "lineHeight": "1.5rem",
+    "fontWeight": "600"
+  },
+  "h6_textContent": {
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "600"
+  },
+  "p_textContent": {
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "500"
+  },
+  "span_textContent": {
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "400"
+  },
+  "btnsWrapper": {},
+  "prevBtn": {
+    "backgroundColor": "rgb(124, 58, 237)",
+    "color": "#ffffff",
+    "borderRadius": "0rem"
+  },
+  "prevBtnImg": {},
+  "nextBtn": {
+    "backgroundColor": "rgb(124, 58, 237)",
+    "color": "#ffffff",
+    "borderRadius": "0rem"
+  },
+  "nextBtnImg": {},
+  "progressBar": {},
+  "progressBarIndicator": {
+    "backgroundColor": "rgb(124, 58, 237)"
+  },
+  "loaderSpinnerColor": {},
+  "dateWrapper": {},
+  "dateLabel": {},
+  "dateDescription": {},
+  "dateBtn": {
+    "borderColor": "rgb(124, 58, 237)",
+    "borderRadius": "0rem"
+  },
+  "calendarImg": {
+    "marginLeft": "18px"
+  },
+  "dateCalendar": {
+    "day_selected": "bg-[e11d48]"
+  },
+  "dateError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "dropdownWrapper": {},
+  "dropdownLabel": {},
+  "dropdownDescription": {},
+  "searchDropdownBtn": {
+    "borderRadius": "0rem"
+  },
+  "caretSortIcon": {},
+  "searchDropdownInput": {
+    "borderRadius": "0rem"
+  },
+  "searchDropdownEmpty": {},
+  "searchDropdownItem": {},
+  "dropdownPlaceholder": {
+    "borderRadius": "0rem"
+  },
+  "dropdownContent": {
+    "borderRadius": "0rem"
+  },
+  "dropdownItem": {},
+  "dropdownError": {
+    "color": "rgb(239, 68, 68)"
+  },
+  "sectionBtnWrapper": {},
+  "sectionBtnSidebarTop": {
+    "borderRadius": "0rem"
+  },
+  "activeSectionSidebarTop": {},
+  "cardSelectionWrapper": {},
+  "cardSelectionList": {
+    "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+  },
+  "cardSelectionLabel": {},
+  "cardSelectionDescription": {},
+  "cardSelectionItem": {
+    "borderRadius": "0rem"
+  },
+  "cardSelectionItemChecked": {
+    "borderColor": "rgb(124, 58, 237)",
+    "borderRadius": "0rem"
+  },
+  "cardSelectionItemImageWrapper": {},
+  "cardSelectionItemImage": {
+    "width": "90%",
+    "height": "auto",
+    "objectFit": "contain"
+  },
+  "cardSelectionItemLabelWrapper": {},
+  "cardSelectionItemLabel": {},
+  "cardSelectionError": {
+    "color": "rgb(239, 68, 68)"
+  }
+}
