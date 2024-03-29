@@ -173,9 +173,7 @@
     "backgroundColor": "rgb(225, 29, 72)",
     "color": "#ffffff",
     "borderRadius": "0.25rem",
-    "&hover": {
-      "borderColor": "#e11d48"
-    }
+    "&hover": "bg-[#1da1f2]"
   },
   "prevBtnImg": {},
   "nextBtn": {
