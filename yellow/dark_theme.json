@@ -1,0 +1,375 @@
+{
+  "formRoot": {
+    "backgroundColor": "#000000"
+  },
+  "formContainer": {
+    "height": "100vh"
+  },
+  "formWrapper": {
+    "backgroundColor": "#000000"
+  },
+  "wrapperBorder": {
+    "border": " 1px solid #ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "logoImgAndTitleWrapper": {},
+  "logoImg": {},
+  "sectionName": {
+    "color": "#ffffff"
+  },
+  "pageName": {
+    "color": "#ffffff"
+  },
+  "separator": {},
+  "sectionWrapper": {},
+  "sidebarNav": {},
+  "sectionBtnSidebar": {
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "activeSection": {
+    "backgroundColor": "rgb(148 163 184)"
+  },
+  "pageBtnSidebar": {
+    "color": "#ffffff",
+    "paddingLeft": "30px",
+    "borderRadius": "0.25rem"
+  },
+  "selectWrapper": {},
+  "selectPlaceholder": {
+    "color": "#ffffff",
+    "background": "transparent"  
+  },
+  "selectContent": {
+    "backgroundColor": "#000000",
+    "border": " 1px solid #ffffff",
+    "borderRadius": "0.25rem" 
+  },
+  "sectionSelect": {
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "pageSelect": {
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "sectionsPanel": {},
+  "pageItemWrapper": {},
+  "form": {},
+  "textInputWrapper": {},
+  "textInputLabel": {
+    "color": "#ffffff"
+  },
+  "textInputDescription": {
+    "color": "#ffffff"
+  },
+  "textInput": {
+    "background": "transparent",
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "textInputError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "textAreaWrapper": {},
+  "textAreaLabel": {
+    "color": "#ffffff"
+  },
+  "textAreaDescription": {
+    "color": "#ffffff"
+  },
+  "textArea": {
+    "background": "transparent",
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "textAreaError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "numberInputWrapper": {},
+  "numberInputLabel": {
+    "color": "#ffffff"
+  },
+  "numberInputDescription": {
+    "color": "#ffffff"
+  },
+  "numberInput": {
+    "background": "transparent",
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "numberInputError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "emailInputWrapper": {},
+  "emailInputLabel": {
+    "color": "#ffffff"
+  },
+  "emailInputDescription": {
+    "color": "#ffffff"
+  },
+  "emailInput": {
+    "background": "transparent",
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "emailInputError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "booleanInputWrapper": {},
+  "booleanInputDescription": {
+    "color": "#ffffff"
+  },
+  "booleanInput": {
+    "border": " 1px solid #ffffff"
+  },
+  "booleanInputLabel": {
+    "color": "#ffffff"
+  },
+  "booleanInputError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "checkboxListWrapper": {},
+  "checkboxListLabel": {
+    "color": "#ffffff"
+  },
+  "checkboxListDescription": {
+    "color": "#ffffff"
+  },
+  "checkboxListRoot": {},
+  "checkboxListItem": {},
+  "checkboxList": {
+    "border": " 1px solid rgb(250, 204, 21)",
+    "borderRadius": "0.25rem"
+  },
+  "checkboxListItemLabel": {
+    "color": "#ffffff"
+  },
+  "checkboxListError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "radioWrapper": {},
+  "radioLabel": {
+    "color": "#ffffff"
+  },
+  "radioDescription": {
+    "color": "#ffffff"
+  },
+  "radioItem": {},
+  "radio": {
+    "border": " 1px solid rgb(250, 204, 21)",
+    "borderRadius": "0.25rem"
+  },
+  "radioChecked":{},
+  "radioItemLabel": {
+    "color": "#ffffff"
+  },
+  "radioError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "passwordInputWrapper": {},
+  "passwordInputLabel": {
+    "color": "#ffffff"
+  },
+  "passwordInputDescription": {
+    "color": "#ffffff"
+  },
+  "passwordInput": {
+    "background": "transparent",
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "passwordConfirmationInputLabel": {
+    "color": "#ffffff"
+  },
+  "passwordConfirmationInput": {
+    "background": "transparent",
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "passwordInputError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "fileInputWrapper": {},
+  "fileInputLabel": {
+    "color": "#ffffff"
+  },
+  "fileInputDescription": {
+    "color": "#ffffff"
+  },
+  "fileInput": {
+    "background": "transparent",
+    "color": "#ffffff",
+    "border": " 1px solid rgb(250, 204, 21)"
+  },
+  "fileInputError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "textContentWrapper": {},
+  "h1_textContent": {
+    "color": "#ffffff",
+    "fontSize": "2.25rem",
+    "lineHeight": "2.5rem",
+    "fontWeight": "800"
+  },
+  "h2_textContent": {
+    "color": "#ffffff",
+    "fontSize": "1.875rem",
+    "lineHeight": "2.25rem",
+    "fontWeight": "600"
+  },
+  "h3_textContent": {
+    "color": "#ffffff",
+    "fontSize": "1.5rem",
+    "lineHeight": "2rem",
+    "fontWeight": "600"
+  },
+  "h4_textContent": {
+    "color": "#ffffff",
+    "fontSize": "1.25rem",
+    "lineHeight": "1.75rem",
+    "fontWeight": "600"
+  },
+  "h5_textContent": {
+    "color": "#ffffff",
+    "fontSize": "1rem",
+    "lineHeight": "1.5rem",
+    "fontWeight": "600"
+  },
+  "h6_textContent": {
+    "color": "#ffffff",
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "600"
+  },
+  "p_textContent": {
+    "color": "#ffffff",
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "500"
+  },
+  "span_textContent": {
+    "color": "#ffffff",
+    "fontSize": "0.875rem",
+    "lineHeight": "1.25rem",
+    "fontWeight": "400"
+  },
+  "btnsWrapper": {},
+  "prevBtn": {
+    "backgroundColor": "rgb(250, 204, 21)",
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "prevBtnImg": {
+    "color": "#ffffff"
+  },
+  "nextBtn": {
+    "backgroundColor": "rgb(250, 204, 21)",
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "nextBtnImg": {
+    "color": "#ffffff"
+  },
+  "progressBar": {},
+  "progressBarIndicator": {
+    "backgroundColor": "rgb(250, 204, 21)"
+  },
+  "loaderSpinnerColor": {
+    "color": "#ffffff"
+  },
+  "dateWrapper": {},
+  "dateLabel": {
+    "color": "#ffffff"
+  },
+  "dateDescription": {
+    "color": "#ffffff"
+  },
+  "dateBtn": {
+    "borderColor": "rgb(250, 204, 21)",
+    "borderRadius": "0.25rem"
+  },
+  "calendarImg": {
+    "marginLeft": "18px"
+  },
+  "dateCalendar": {
+    "day_selected": "bg-[e11d48]"
+  },
+  "dateError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "dropdownWrapper": {},
+  "dropdownLabel": {
+    "color": "#ffffff"
+  },
+  "dropdownDescription": {
+    "color": "#ffffff"
+  },
+  "searchDropdownBtn": {
+    "background": "transparent",
+    "color": "#ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "caretSortIcon": {},
+  "searchDropdownInput": {
+    "borderRadius": "0.25rem"
+  },
+  "searchDropdownEmpty": {},
+  "searchDropdownItem": {},
+  "dropdownPlaceholder": {
+    "color": "#ffffff",
+    "background": "transparent",
+    "borderRadius": "0.25rem"
+  },
+  "dropdownContent": {
+    "backgroundColor": "#000000",
+    "border": " 1px solid #ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "dropdownItem": {
+    "color": "#ffffff"
+  },
+  "dropdownError": {
+    "color": "rgb(127, 29, 29)"
+  },
+  "sectionBtnWrapper": {},
+  "sectionBtnSidebarTop": {
+    "borderRadius": "0.25rem"
+  },
+  "activeSectionSidebarTop": {
+    "color": "#ffffff",
+    "backgroundColor": "rgb(148 163 184)"
+  },
+  "cardSelectionWrapper": {},
+  "cardSelectionLabel": {
+    "color": "#ffffff"
+  },
+  "cardSelectionList": {
+    "gridTemplateColumns": "repeat(3, minmax(0, 1fr))"
+  },
+  "cardSelectionDescription": {
+    "color": "#ffffff"
+  },
+  "cardSelectionItem": {
+    "background": "transparent",
+    "border": "1px solid #ffffff",
+    "borderRadius": "0.25rem"
+  },
+  "cardSelectionItemChecked": {
+    "borderColor": "rgb(250, 204, 21)",
+    "borderRadius": "0.25rem"
+  },
+  "cardSelectionItemImageWrapper": {},
+  "cardSelectionItemImage": {
+    "width": "90%",
+    "height": "auto",
+    "objectFit": "contain"
+  },
+  "cardSelectionItemLabelWrapper": {},
+  "cardSelectionItemLabel": {
+    "color": "#ffffff"
+  },
+  "cardSelectionError": {
+    "color": "rgb(127, 29, 29)"
+  }
+}
