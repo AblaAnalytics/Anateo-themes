@@ -7,7 +7,9 @@
   },
   "logoImgAndTitleWrapper": {},
   "logoImg": {},
-  "sectionName": {},
+  "sectionName": {
+    "color": "blue"
+  },
   "pageName": {},
   "separator": {},
   "sectionWrapper": {},
