@@ -8,8 +8,7 @@
   "logoImgAndTitleWrapper": {},
   "logoImg": {},
   "sectionName": {
-    "color": "blue",
-    "&hover": "bg-[#1da1f2]"
+    "color": "blue"
   },
   "pageName": {},
   "separator": {},
@@ -41,7 +40,8 @@
   "textInputLabel": {},
   "textInputDescription": {},
   "textInput": {
-    "borderRadius": "0.25rem"
+    "borderRadius": "0.25rem",
+    "&hover": "bg-[#1da1f2]"
   },
   "textInputError": {
     "color": "rgb(239, 68, 68)"
@@ -180,7 +180,7 @@
     "backgroundColor": "rgb(225, 29, 72)",
     "color": "#ffffff",
     "borderRadius": "0.25rem",
-    "&hover": "bg-[#1da1f2]"
+    "&focus": "bg-[#1da1f2]"
   },
   "nextBtnImg": {},
   "progressBar": {},
