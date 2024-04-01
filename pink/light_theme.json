@@ -41,7 +41,7 @@
   "textInputDescription": {},
   "textInput": {
     "borderRadius": "0.25rem",
-    "&hover": "bg-[#1da1f2]"
+    "focus-visible":"ring-[#e11d48]"
   },
   "textInputError": {
     "color": "rgb(239, 68, 68)"
@@ -75,7 +75,9 @@
   },
   "booleanInputWrapper": {},
   "booleanInputDescription": {},
-  "booleanInput": {},
+  "booleanInput": {
+    "data-[state=checked]": "bg-[#e11d48]"
+  },
   "booleanInputLabel": {},
   "booleanInputError": {
     "color": "rgb(239, 68, 68)"
@@ -87,7 +89,8 @@
   "checkboxListItem": {},
   "checkboxList": {
     "borderColor": "rgb(225, 29, 72)",
-    "borderRadius": "0.25rem"
+    "borderRadius": "0.25rem",
+    "data-[state=checked]": "bg-[#e11d48]"
   },
   "checkboxListItemLabel": {},
   "checkboxListError": {
@@ -179,8 +182,7 @@
   "nextBtn": {
     "backgroundColor": "rgb(225, 29, 72)",
     "color": "#ffffff",
-    "borderRadius": "0.25rem",
-    "&focus": "bg-[#1da1f2]"
+    "borderRadius": "0.25rem"
   },
   "nextBtnImg": {},
   "progressBar": {},
@@ -199,7 +201,7 @@
     "marginLeft": "18px"
   },
   "dateCalendar": {
-    "day_selected": "bg-[e11d48]"
+    "day_selected": "bg-[#e11d48]"
   },
   "dateError": {
     "color": "rgb(239, 68, 68)"
@@ -217,7 +219,8 @@
   "searchDropdownEmpty": {},
   "searchDropdownItem": {},
   "dropdownPlaceholder": {
-    "borderRadius": "0.25rem"
+    "borderRadius": "0.25rem",
+    "focus":"ring-[#e11d48]"
   },
   "dropdownContent": {
     "borderRadius": "0.25rem"
