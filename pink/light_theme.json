@@ -40,7 +40,7 @@
   "textInputDescription": {},
   "textInput": {
     "borderRadius": "0.25rem",
-    "&&": "placeholder-green-500 focus:ring-violet-300"
+    "&&": "placeholder:text-muted-foreground::placeholder placeholder-green-500 focus:ring-violet-300"
   },
   "textInputError": {
     "color": "rgb(239, 68, 68)"
