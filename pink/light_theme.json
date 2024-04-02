@@ -40,7 +40,8 @@
   "textInputDescription": {},
   "textInput": {
     "borderRadius": "0.25rem",
-    "&focusVisible":"ring-blue-500"
+    "&focusVisible":"ring-blue-500",
+    "&placeholder": "italic text-slate-400"
   },
   "textInputError": {
     "color": "rgb(239, 68, 68)"
@@ -122,7 +123,8 @@
   "fileInputLabel": {},
   "fileInputDescription": {},
   "fileInput": {
-    "border": " 1px solid rgb(225, 29, 72)"
+    "border": " 1px solid rgb(225, 29, 72)",
+    "&file": "bg-violet-50"
   },
   "fileInputError": {
     "color": "rgb(239, 68, 68)"
