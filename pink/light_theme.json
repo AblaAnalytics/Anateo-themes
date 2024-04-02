@@ -42,7 +42,7 @@
     "borderRadius": "0.25rem",
     "&focus":"border-blue-400",
     "&placeholder": "text-red-600",
-    "&": "placeholder-green-500"
+    "&&": "placeholder-green-500"
   },
   "textInputError": {
     "color": "rgb(239, 68, 68)"
