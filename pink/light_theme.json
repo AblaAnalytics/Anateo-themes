@@ -39,8 +39,7 @@
   "textInputLabel": {},
   "textInputDescription": {},
   "textInput": {
-    "borderRadius": "0.25rem",
-    "&focusVisible":"ring-[#e11d48]"
+    "borderRadius": "0.25rem"
   },
   "textInputError": {
     "color": "rgb(239, 68, 68)"
