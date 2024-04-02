@@ -7,9 +7,7 @@
   },
   "logoImgAndTitleWrapper": {},
   "logoImg": {},
-  "sectionName": {
-    "color": "blue"
-  },
+  "sectionName": {},
   "pageName": {},
   "separator": {},
   "sectionWrapper": {},
@@ -75,9 +73,7 @@
   },
   "booleanInputWrapper": {},
   "booleanInputDescription": {},
-  "booleanInput": {
-    "&data[state=checked]": "bg-[#e11d48]"
-  },
+  "booleanInput": {},
   "booleanInputLabel": {},
   "booleanInputError": {
     "color": "rgb(239, 68, 68)"
@@ -90,7 +86,6 @@
   "checkboxList": {
     "borderColor": "rgb(225, 29, 72)",
     "borderRadius": "0.25rem",
-    "&data[state=checked]": "bg-[#e11d48]"
   },
   "checkboxListItemLabel": {},
   "checkboxListError": {
@@ -182,7 +177,8 @@
   "nextBtn": {
     "backgroundColor": "rgb(225, 29, 72)",
     "color": "#ffffff",
-    "borderRadius": "0.25rem"
+    "borderRadius": "0.25rem",
+    "&hover": "ring-[#e11d48] !important"
   },
   "nextBtnImg": {},
   "progressBar": {},
