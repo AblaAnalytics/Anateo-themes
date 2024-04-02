@@ -41,7 +41,7 @@
   "textInput": {
     "borderRadius": "0.25rem",
     "&focusVisible":"ring-blue-500",
-    "&placeholder": "italic text-slate-400"
+    "&placeholder": "placeholder-green-500"
   },
   "textInputError": {
     "color": "rgb(239, 68, 68)"
