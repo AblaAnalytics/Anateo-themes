@@ -292,9 +292,7 @@
   "calendarImg": {
     "marginLeft": "18px"
   },
-  "dateCalendar": {
-    "day_selected": "bg-[e11d48]"
-  },
+  "dateCalendar": {},
   "dateError": {
     "color": "rgb(127, 29, 29)"
   },

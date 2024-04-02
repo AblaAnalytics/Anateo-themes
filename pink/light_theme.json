@@ -85,7 +85,7 @@
   "checkboxListItem": {},
   "checkboxList": {
     "borderColor": "rgb(225, 29, 72)",
-    "borderRadius": "0.25rem",
+    "borderRadius": "0.25rem"
   },
   "checkboxListItemLabel": {},
   "checkboxListError": {
@@ -178,7 +178,7 @@
     "backgroundColor": "rgb(225, 29, 72)",
     "color": "#ffffff",
     "borderRadius": "0.25rem",
-    "&hover": "ring-[#e11d48] !important"
+    "&hover": "ring-[#e11d50] !important"
   },
   "nextBtnImg": {},
   "progressBar": {},
@@ -196,9 +196,7 @@
   "calendarImg": {
     "marginLeft": "18px"
   },
-  "dateCalendar": {
-    "day_selected": "bg-[#e11d48]"
-  },
+  "dateCalendar": {},
   "dateError": {
     "color": "rgb(239, 68, 68)"
   },
