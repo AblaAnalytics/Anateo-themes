@@ -40,7 +40,7 @@
   "textInputDescription": {},
   "textInput": {
     "borderRadius": "0.25rem",
-    "&&": "placeholder-green-500 focus-visible:ring-violet-300"
+    "&&": "placeholder-green-500 !important focus-visible:ring-violet-300"
   },
   "textInputError": {
     "color": "rgb(239, 68, 68)"
@@ -123,7 +123,7 @@
   "fileInputDescription": {},
   "fileInput": {
     "border": " 1px solid rgb(225, 29, 72)",
-    "&file": "bg-violet-50"
+    "&&": "file:bg-violet-50"
   },
   "fileInputError": {
     "color": "rgb(239, 68, 68)"
@@ -180,7 +180,7 @@
     "backgroundColor": "rgb(225, 29, 72)",
     "color": "#ffffff",
     "borderRadius": "0.25rem",
-    "&hover": "bg-pink-400"
+    "&&": "hover:bg-pink-400 !important"
   },
   "nextBtnImg": {},
   "progressBar": {},
@@ -216,7 +216,7 @@
   "searchDropdownItem": {},
   "dropdownPlaceholder": {
     "borderRadius": "0.25rem",
-    "&focus":"ring-[#e11d48]"
+    "&&":"focus:ring-[#e11d48]"
   },
   "dropdownContent": {
     "borderRadius": "0.25rem"
