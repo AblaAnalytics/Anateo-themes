@@ -76,7 +76,7 @@
   "booleanInputWrapper": {},
   "booleanInputDescription": {},
   "booleanInput": {
-    "data-[state=checked]": "bg-[#e11d48]"
+    "&data[state=checked]": "bg-[#e11d48]"
   },
   "booleanInputLabel": {},
   "booleanInputError": {
@@ -90,7 +90,7 @@
   "checkboxList": {
     "borderColor": "rgb(225, 29, 72)",
     "borderRadius": "0.25rem",
-    "data-[state=checked]": "bg-[#e11d48]"
+    "&data[state=checked]": "bg-[#e11d48]"
   },
   "checkboxListItemLabel": {},
   "checkboxListError": {
@@ -220,7 +220,7 @@
   "searchDropdownItem": {},
   "dropdownPlaceholder": {
     "borderRadius": "0.25rem",
-    "focus":"ring-[#e11d48]"
+    "&focus":"ring-[#e11d48]"
   },
   "dropdownContent": {
     "borderRadius": "0.25rem"
