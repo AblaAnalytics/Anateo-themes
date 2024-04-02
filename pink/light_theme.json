@@ -40,9 +40,8 @@
   "textInputDescription": {},
   "textInput": {
     "borderRadius": "0.25rem",
-    "&focus":"border-blue-400",
     "&placeholder": "text-red-600",
-    "&&": "placeholder-green-500"
+    "&&": "placeholder:text-blue-600 placeholder-green-500 focus:ring-violet-300"
   },
   "textInputError": {
     "color": "rgb(239, 68, 68)"
