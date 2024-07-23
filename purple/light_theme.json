@@ -1,75 +1,53 @@
 {
   "themeColor": "purple",
+  "borderRadius": "0rem",
   "formRoot": {},
   "formContainer": {},
   "formWrapper": {},
-  "wrapperBorder": {
-    "borderRadius": "0rem"
-  },
+  "wrapperBorder": {},
   "logoImgAndTitleWrapper": {},
   "logoImg": {},
-  "sectionName": {
-    "color": "blue"
-  },
+  "sectionName": {},
   "pageName": {},
   "separator": {},
   "sectionWrapper": {},
   "sidebarNav": {},
-  "sectionBtnSidebar": {
-    "borderRadius": "0rem"
-  },
+  "sectionBtnSidebar": {},
   "activeSection": {},
-  "pageBtnSidebar": {
-    "paddingLeft": "30px",
-    "borderRadius": "0rem"
-  },
+  "pageBtnSidebar": {},
   "selectWrapper": {},
   "selectPlaceholder": {},
-  "selectContent": {
-    "borderRadius": "0rem"
-  },
-  "sectionSelect": {
-    "borderRadius": "0rem"
-  },
-  "pageSelect": {
-    "borderRadius": "0rem"
-  },
+  "selectContent": {},
+  "sectionSelect": {},
+  "pageSelect": { },
   "sectionsPanel": {},
   "pageItemWrapper": {},
   "form": {},
   "textInputWrapper": {},
   "textInputLabel": {},
   "textInputDescription": {},
-  "textInput": {
-    "borderRadius": "0rem"
-  },
+  "textInput": {},
   "textInputError": {
     "color": "rgb(239, 68, 68)"
   },
   "textAreaWrapper": {},
   "textAreaLabel": {},
   "textAreaDescription": {},
-  "textArea": {
-    "borderRadius": "0rem"
-  },
+  "textArea": {},
   "textAreaError": {
     "color": "rgb(239, 68, 68)"
   },
   "numberInputWrapper": {},
   "numberInputLabel": {},
   "numberInputDescription": {},
-  "numberInput": {
-    "borderRadius": "0rem"
-  },
+  "numberInput": {},
   "numberInputError": {
     "color": "rgb(239, 68, 68)"
   },
   "emailInputWrapper": {},
   "emailInputLabel": {},
   "emailInputDescription": {},
-  "emailInput": {
-    "borderRadius": "0rem"
-  },
+  "emailInput": {},
   "emailInputError": {
     "color": "rgb(239, 68, 68)"
   },
@@ -85,10 +63,7 @@
   "checkboxListDescription": {},
   "checkboxListRoot": {},
   "checkboxListItem": {},
-  "checkboxList": {
-    "borderColor": "rgb(124, 58, 237)",
-    "borderRadius": "0rem"
-  },
+  "checkboxList": {},
   "checkboxListItemLabel": {},
   "checkboxListError": {
     "color": "rgb(239, 68, 68)"
@@ -97,10 +72,7 @@
   "radioLabel": {},
   "radioDescription": {},
   "radioItem": {},
-  "radio": {
-    "borderColor": "rgb(124, 58, 237)",
-    "borderRadius": "0rem"
-  },
+  "radio": {},
   "radioChecked":{},
   "radioItemLabel": {},
   "radioError": {
@@ -109,13 +81,9 @@
   "passwordInputWrapper": {},
   "passwordInputLabel": {},
   "passwordInputDescription": {},
-  "passwordInput": {
-    "borderRadius": "0rem"
-  },
+  "passwordInput": {},
   "passwordConfirmationInputLabel": {},
-  "passwordConfirmationInput": {
-    "borderRadius": "0rem"
-  },
+  "passwordConfirmationInput": {},
   "passwordInputError": {
     "color": "rgb(239, 68, 68)"
   },
@@ -170,63 +138,34 @@
     "fontWeight": "400"
   },
   "btnsWrapper": {},
-  "prevBtn": {
-    "backgroundColor": "rgb(124, 58, 237)",
-    "color": "#ffffff",
-    "borderRadius": "0rem"
-  },
+  "prevBtn": {},
   "prevBtnImg": {},
-  "nextBtn": {
-    "backgroundColor": "rgb(124, 58, 237)",
-    "color": "#ffffff",
-    "borderRadius": "0rem"
-  },
+  "nextBtn": {},
   "nextBtnImg": {},
   "progressBar": {},
-  "progressBarIndicator": {
-    "backgroundColor": "rgb(124, 58, 237)"
-  },
+  "progressBarIndicator": {},
   "loaderSpinnerColor": {},
   "dateWrapper": {},
   "dateLabel": {},
   "dateDescription": {},
-  "dateBtn": {
-    "borderColor": "rgb(124, 58, 237)",
-    "borderRadius": "0rem"
-  },
-  "calendarImg": {
-    "marginLeft": "18px"
-  },
+  "dateBtn": {},
+  "calendarImg": {},
   "dateCalendar": {},
-  "dateError": {
-    "color": "rgb(239, 68, 68)"
-  },
+  "dateError": {},
   "dropdownWrapper": {},
   "dropdownLabel": {},
   "dropdownDescription": {},
-  "searchDropdownBtn": {
-    "borderRadius": "0rem"
-  },
+  "searchDropdownBtn": {},
   "caretSortIcon": {},
-  "searchDropdownInput": {
-    "borderRadius": "0rem"
-  },
+  "searchDropdownInput": {},
   "searchDropdownEmpty": {},
   "searchDropdownItem": {},
-  "dropdownPlaceholder": {
-    "borderRadius": "0rem"
-  },
-  "dropdownContent": {
-    "borderRadius": "0rem"
-  },
+  "dropdownPlaceholder": {},
+  "dropdownContent": {},
   "dropdownItem": {},
-  "dropdownError": {
-    "color": "rgb(239, 68, 68)"
-  },
+  "dropdownError": { },
   "sectionBtnWrapper": {},
-  "sectionBtnSidebarTop": {
-    "borderRadius": "0rem"
-  },
+  "sectionBtnSidebarTop": {},
   "activeSectionSidebarTop": {},
   "cardSelectionWrapper": {},
   "cardSelectionList": {
@@ -234,13 +173,8 @@
   },
   "cardSelectionLabel": {},
   "cardSelectionDescription": {},
-  "cardSelectionItem": {
-    "borderRadius": "0rem"
-  },
-  "cardSelectionItemChecked": {
-    "borderColor": "rgb(124, 58, 237)",
-    "borderRadius": "0rem"
-  },
+  "cardSelectionItem": {},
+  "cardSelectionItemChecked": {},
   "cardSelectionItemImageWrapper": {},
   "cardSelectionItemImage": {
     "width": "90%",
